@@ -1,5 +1,5 @@
 # this program reads in a number and prints out one more than that number
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 number = int(input("please enter a number:"))
 newNumber = number + 1

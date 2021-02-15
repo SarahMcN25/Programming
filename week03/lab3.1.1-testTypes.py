@@ -1,5 +1,5 @@
 # this file tests 5 types of variables - int, float, boolean, string and list
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 i = 3
 fl = 3.5

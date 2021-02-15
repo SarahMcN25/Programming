@@ -1,5 +1,5 @@
 # this program prints out random numbers between 1 and 10
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 import random 
 # needed to import module random here. 

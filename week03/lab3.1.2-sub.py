@@ -1,5 +1,5 @@
 # this program reads in two numebrs and subtracts the first one from the second one. 
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 # note - input reads in a string in order to covert it into an int. 
 

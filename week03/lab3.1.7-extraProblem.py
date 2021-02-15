@@ -1,8 +1,8 @@
 # this program fixes the error for line 2 and 3
+# Author: Sarah McNelis
+
 # message = 'I have eaten ' + 99 ' 'burritos.'
 # print (message)
-
-# author: Sarah McNelis
 
 message = input("I have eaten 99 burritos.")
 print (messgae)

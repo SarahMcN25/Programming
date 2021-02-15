@@ -1,5 +1,5 @@
 # this program prints out a random fruit
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 import random
 

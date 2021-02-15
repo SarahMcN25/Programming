@@ -1,5 +1,5 @@
 # this program creates and outputs a string
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 message = 'John said\t"hi"\nI said\t\t"bye"'
 print (message)

@@ -1,6 +1,6 @@
 # this program reads in and outputs a name and age
 # while using tab format
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 name = input("Enter your name:")
 age = input("Enter your age:")

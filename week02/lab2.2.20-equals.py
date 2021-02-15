@@ -1,5 +1,5 @@
 # this program checks if two numbers are equal
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 answer = 2==3
 print (answer)

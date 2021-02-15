@@ -1,6 +1,6 @@
 # this program takes in a float and output an int rounded down
 # need to use math module math.floor()
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 import math
 

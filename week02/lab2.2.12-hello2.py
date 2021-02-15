@@ -1,6 +1,6 @@
 # this program reads in a persons name and prints out hello that persons name
 # also creates new line that says nice to meet you
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 # name = input("Enter your name:")
 # print ('Hello ' + name) 

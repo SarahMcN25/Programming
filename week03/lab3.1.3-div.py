@@ -1,6 +1,6 @@
 # this program reads in two numbers, divides the first by the second 
 # and gives the int result and remainder.
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 x = int(input("Enter first number:"))
 y = int(input("Enter the number you want to divide by:"))

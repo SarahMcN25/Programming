@@ -1,5 +1,5 @@
 # this program readsin a string and outputs how long it is
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 inputstring = input('Enter a string:')
 lenghtOfString = len(inputstring)

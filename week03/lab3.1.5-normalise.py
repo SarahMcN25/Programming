@@ -1,7 +1,7 @@
 # this program leads in a string and strips any leading or trailing spaces
 # also converts all letters to lower case
 # also outputs lenght of the origional string and the normalised one
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 rawString = input("Please enter a string:")
 normalisedString = rawString.strip().lower()

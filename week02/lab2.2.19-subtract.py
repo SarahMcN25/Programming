@@ -1,5 +1,5 @@
 # this program subtracts two numbers
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 answer = 21-4
 print (answer)

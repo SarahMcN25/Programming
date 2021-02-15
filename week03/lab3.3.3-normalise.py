@@ -2,7 +2,7 @@
 # strips any leading or trailing spaces
 # converts string to lower case
 # also outputs lenght of origional string and normalised one
-# author: Sarah McNelis
+# Author: Sarah McNelis
 
 rawString = input("Please enter a string:")
 normalisedString = rawString.strip().lower()
