@@ -36,7 +36,7 @@ def displayModules(modules):
 def doView(students):
     for currentStudent in students:
         print(currentStudent["name"])
-        displayModules(currentStudent["modules"]);
+        displayModules(currentStudent["modules"])
 
 # main program
 students = []
