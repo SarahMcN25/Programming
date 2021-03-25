@@ -1,1 +1,1 @@
-# mywork
+#### This repository is a collection of the lab work I completed for my Programming and Scripting module
