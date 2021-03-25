@@ -1,4 +1,4 @@
-# This program contains a class
+# This program contains a class for an employee
 # Author: Sarah McNelis
 
 import datetime as dt 
